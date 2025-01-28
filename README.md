@@ -19,4 +19,19 @@
 ```bash
 git clone https://github.com/yourusername/PySyncChain.git
 cd PySyncChain
-'''
+```
+
+### **2. Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+### **3. Run a Blockchain Node**
+```bash
+python blockchain.py
+```
+
+### **4. Start a Miner**
+```bash
+python miner.py
+```
